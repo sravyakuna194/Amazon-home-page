@@ -1,0 +1,47 @@
+body{
+    background-image: url(amazon1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .logo{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: x-large;
+        margin: 10px;
+    }
+    .nav{
+        display: flex;
+    }
+    ul{
+        list-style-type: none;
+        display: flex;
+    }
+    ul li{
+          margin: 2px;
+          font-size: 35px;
+          padding: 10px;
+    }
+    .search{
+        font-size: 60px;
+        margin: 2px;
+        padding: 2px;
+    }
+    .content{
+        margin-top: 100px;
+        margin-left: -1030px;
+    }
+    .content .btn1{
+        font-size: 20px;
+    }
+    .form{
+        border:3px solid blue;
+        padding: 3px;
+        margin: 4px;
+        border-radius: 5px;
+        margin-left: 200px;
+        margin-top: 120px;
+        width: 400px;
+    }
+    .form input{
+        font-size: x-large;
+    }
+    
